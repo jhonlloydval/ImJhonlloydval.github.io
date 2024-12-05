@@ -1,6 +1,7 @@
 # ImJhonlloydval.github.io
 
 # PORTFOLIO WEBSITE  
+![awan](Portfolio_home.jpg)
 This is a personal portfolio website created to showcase my skills, projects, and experience as a first-year Computer Science student aspiring to be a Software Engineer. The format of the website is inspired by HowToWebDev; however, I made the website entirely myself using HTML, CSS, and a bit of JavaScript. I also integrated a website link in the Services section made from third-party web development software.  
 
 The website includes details about my background, achievements, and education, services including Blog, Projects, and Photography, and also personal information.  
@@ -44,4 +45,4 @@ The website includes details about my background, achievements, and education, s
 - **Footer:** About services, social links, and location.  
 
 ## PREVIEW
-![awan](Portfolio_home.jpg)
+
