@@ -37,7 +37,7 @@ The website includes details about my background, achievements and education, se
 - You can also download or clone the repository itself, then open the project folder locally and double-click the `index.html` file to open it in a browser.  
 
 ## WEBSITE STRUCTURE  
-- **Home:** Introduction, photo, navigation pane, and social links.  
+- **Home:** Introduction, photo, navigation pane, and social links (Facebook, linkedin, Github, and Instagram).  
 - **About:** Personal background and programming language skills.  
 - **Experience:** Details about education, online courses, and achievements.  
 - **Services:** Blog, Projects, and Photography links.  
