@@ -55,7 +55,6 @@ The website includes details about my background, achievements and education, se
 ![awan](Portfolio_projects.png)
 
 **Photography Section Home Page**
-![awan](Portfolio_photography.png)
 
 
 
