@@ -38,7 +38,7 @@ The website includes details about my background, achievements and education, se
 
 ## WEBSITE STRUCTURE  
 - **Home:** Introduction, photo, navigation pane, and social links.  
-- **About:** Personal background and skills.  
+- **About:** Personal background and programming language skills.  
 - **Experience:** Details about education, online courses, and achievements.  
 - **Services:** Blog, Projects, and Photography links.  
 - **Contact:** Form and contact details.  
