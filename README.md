@@ -51,11 +51,10 @@ The website includes details about my background, achievements and education, se
 **Blog Section Home Page**
 ![awan](Portfolio_blog.png)
 
-**Project Section Home Page**
+**Projects Section Home Page**
 ![awan](Portfolio_projects.png)
 
 **Photography Section Home Page**
-![awan](Portfolio_photography.png)
-
+![awn](ImJhonlloydval.github.io/Portfolio_photography.png)
 
 
