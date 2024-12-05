@@ -45,4 +45,17 @@ The website includes details about my background, achievements, and education, s
 - **Footer:** About services, social links, and location.  
 
 ## PREVIEW
+**Home Page**
+![awan](Portfolio_homep.jpg)
+
+**Blog Section Home Page**
+![awan](Portfolio_blog.png)
+
+**Project Section Home Page**
+![awan](Portfolio_projects.png)
+
+**Photography Section Home Page**
+![awan](Portfolio_photography.png)
+
+
 
