@@ -68,6 +68,7 @@ nav ul a:hover{
 }
 span{
   /* the linear gradient function*/
+  /* #3ec5ff ung orig color */
   background: linear-gradient(to right, #6cff52,  #3ec5ff);
   /* ciclip ung color sa text so magkaka gradient yung text or color*/
   background-clip: text;
@@ -191,6 +192,48 @@ section{
   font-size: 2.5em;
 }
 
+
+#experience{
+  display: flex;
+}
+/* Style for the Experience section */
+.experience-section {
+  background-color: #ececec;  /* Light pink background */
+  padding: 40px;
+  margin: 20px;  /* Adds margin around the section */
+  box-sizing: border-box;
+}
+
+.experience-box{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  gap: 2em;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.experience-info h1, .experience-info h2 {
+  color: hsl(0, 0%, 100%);  /* Dark blue color for headings */
+  font-size: 36px;
+}
+
+.experience-info p {
+  font-size: 18px;
+  color: #000000;  /* Dark pink color for text */
+}
+
+.experience-info span {
+  font-weight: 700; /* Adds boldness to the span tags */
+}
+
+
+
+
+
+
+
+
 #services{
   background-color: var(--background);
 }
@@ -306,14 +349,63 @@ footer{
   justify-content: left;
   gap: 1em;
 }
-.col-right .social-icons i{
+
+
+/* basta */
+.col-right .social-icons i {
   font-size: 2em;
-  transition: 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out; /* yung smooth transition */
   cursor: pointer;
+
+  /* Gradient efffect */
+  background: linear-gradient(90deg, #3ec5ff, #6cff52);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  /* Makes the text show the gradient na blue green */
+  -webkit-text-fill-color: transparent;
 }
-.social-icons i:hover{
+
+.col-right .social-icons i:hover {
+  /* On hover, keep the background but change the text color */
+  -webkit-text-fill-color: white; /* Solid white for hover */
+}
+
+
+
+
+.social-icons-2 i {
+  font-size: 2em;
+  transition: all 0.2s ease-in-out; /* Smooth transition */
+  cursor: pointer;
+
+  /* Default color */
   color: white;
+
+  /* Gradient effect for hover */
+  background: linear-gradient(90deg, #3ec5ff, #6cff52);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  /* Makes the text show white by default */
+  -webkit-text-fill-color: white;
 }
+
+.social-icons-2 i:hover {
+  /* On hover, change the text color to gradient */
+  -webkit-text-fill-color: transparent; /* Makes the text transparent to show the gradient */
+  color: transparent; /* Fallback for unsupported browsers */
+}
+
+
+
+
+
+
+
+
+/* About sa buttons na bago*/
+
 
 @media(max-width: 968px){
   section{
