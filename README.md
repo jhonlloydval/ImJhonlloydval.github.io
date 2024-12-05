@@ -55,6 +55,6 @@ The website includes details about my background, achievements and education, se
 ![awan](Portfolio_projects.png)
 
 **Photography Section Home Page**
-![awn](ImJhonlloydval.github.io/Portfolio_photography.png)
+![awn](Portfolio_photography.png)
 
 
