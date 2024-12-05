@@ -46,7 +46,7 @@ The website includes details about my background, achievements, and education, s
 
 ## PREVIEW
 **Home Page**
-![awan](Portfolio_homep.jpg)
+![awan](Portfolio_homep.png)
 
 **Blog Section Home Page**
 ![awan](Portfolio_blog.png)
